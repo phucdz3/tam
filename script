@@ -7,7 +7,6 @@ local rest_time = 700 -- Thời gian nghỉ trước khi tiếp tục spam (giâ
 -- Danh sách tin nhắn ngẫu nhiên để tránh bị phát hiện
 local messages = {
     "Cheap fruits at shopbloxfruit. n e t"
-    "random 1 mythic = 0.064$ at shopbloxfruit. n e t"
 }
 
 -- Hàm chọn tin nhắn ngẫu nhiên
